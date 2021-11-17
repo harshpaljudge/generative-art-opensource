@@ -1,0 +1,39 @@
+{
+    "dna": "1011001100",
+    "name": "#21",
+    "description": "This is an NFT made by the coolest generative code.",
+    "image": "https://raw.githubusercontent.com/harshpaljudge/generative-art-opensource/master/output/21.png",
+    "edition": 21,
+    "date": 1637160600807,
+    "attributes": [{
+        "trait_type": "Background",
+        "value": "Orange"
+    }, {
+        "trait_type": "Suit",
+        "value": "Regular"
+    }, {
+        "trait_type": "Shoulder",
+        "value": "USA"
+    }, {
+        "trait_type": "Pin",
+        "value": "LunaBluePin"
+    }, {
+        "trait_type": "Race",
+        "value": "Skull"
+    }, {
+        "trait_type": "Facial hair",
+        "value": "No facial hair"
+    }, {
+        "trait_type": "Mask",
+        "value": "Medical"
+    }, {
+        "trait_type": "Hair",
+        "value": "Pink"
+    }, {
+        "trait_type": "Accessories",
+        "value": "No accessories"
+    }, {
+        "trait_type": "Headwear",
+        "value": "Glass dome"
+    }]
+}
